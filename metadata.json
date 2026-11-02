@@ -1,0 +1,6 @@
+{
+  "name": "HeliosAI - AIoT Solar Diagnostic Console",
+  "description": "Real-time AIoT solar panel performance monitoring, ESP32 sensor telemetry, and intelligent fault diagnosis system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
